@@ -1,6 +1,3 @@
-
-# Here is another update by NicLedoux
-
 # Here is a new update by NicLedoux
 
 # Shipping Cost Calculator
